@@ -14,10 +14,10 @@ Suggest the tags based on the content in the question posted on stackoverflow.
 
 ## Source / useful links 
 
-Data Source : https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data
-Youtube : https://youtu.be/nNDqbUhtIRg
-Research paper : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tagging-1.pdf
-Research paper : https://dl.acm.org/citation.cfm?id=2660970&dl=ACM&coll=DL
+- Data Source : https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data
+- Youtube : https://youtu.be/nNDqbUhtIRg
+- Research paper : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tagging-1.pdf
+- Research paper : https://dl.acm.org/citation.cfm?id=2660970&dl=ACM&coll=DL
 
 ## Real World / Business Objectives and Constraints 
 - Predict as many tags as possible with high precision and recall.
