@@ -1,6 +1,6 @@
 # Stackoverflow Tag Prediction
 
-![Stack_Overflow-Logo wine](https://user-images.githubusercontent.com/71088477/127899012-027f1aed-ce51-4340-965f-9bf0ddc911bc.png)
+![stackoverflow-1](https://user-images.githubusercontent.com/71088477/127899318-66006017-b23a-453f-9df3-008465b70cf2.png)
 
 ## Business Problem
 Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.
@@ -140,4 +140,5 @@ In the multi-class and multi-label case, this is the weighted average of the F1 
 
 - Hamming loss : The Hamming loss is the fraction of labels that are incorrectly predicted.
 
-## Complete Work - Swetapadma Das
+## Author
+Complete Work- Swetapadma Das
